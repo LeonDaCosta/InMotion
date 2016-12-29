@@ -1,1 +1,22 @@
-/build
+# Built application files
+.apk
+*.ap_
+
+# Java class files
+*.class
+
+#Generated files
+.gradle/
+build/
+
+# Local configuration file
+local.properties
+
+# Intellij
+*iml
+.idea/misc.xml
+.idea/worspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/libraries
