@@ -8,6 +8,7 @@
 #Generated files
 .gradle/
 build/
+.gradle/*
 
 # Local configuration file
 local.properties
